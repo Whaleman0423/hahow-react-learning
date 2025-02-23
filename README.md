@@ -23,17 +23,17 @@ npx create-expo-app --template blank <project_name, ex. first_project>
 ```
 
 ### 運行專案
-進入專案資料夾
+1. 進入專案資料夾
 ```
 cd <folder_name, ex. 2-1, hw/hw_2-1...>
 ```
 
-安裝專案套件
+2. 安裝專案套件
 ```
 npm install
 ```
 
-運行專案
+3. 運行專案
 ```
 npm start
 <!-- or -->
